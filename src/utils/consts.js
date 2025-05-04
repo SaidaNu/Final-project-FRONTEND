@@ -1,0 +1,9 @@
+export const HOME_PAGE_ROUTE = "/";
+export const ABOUT_PAGE_ROUTE = "/about";
+export const MISSIONS_PAGE_ROUTE = "/missions";
+export const POSTS_PAGE_ROUTE = "/posts";
+export const ARTICLES_PAGE_ROUTE = "/articles";
+export const ARTICLEDETAIL_PAGE_ROUTE = "/articles/:id";
+export const PROFILE_PAGE_ROUTE = "/profile";
+export const LOGIN_PAGE_ROUTE = "/login";
+export const REGISTER_PAGE_ROUTE = "/register";
