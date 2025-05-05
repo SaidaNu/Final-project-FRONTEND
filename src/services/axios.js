@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "http://localhost:7000",
+  baseURL: "https://final-project-backend-82js.onrender.com",
 });
